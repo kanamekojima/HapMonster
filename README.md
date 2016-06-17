@@ -46,6 +46,6 @@ java -jar HapMonster.jar \
 | -th (--threshold) | DOUBLE 10.0 | Threshold for filtering variant calls |
 | -u (--unit-id) | INT 1 | Unit ID |
 
- * Required options
+ \* Required options
 
 ## DOWNLOAD
